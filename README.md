@@ -12,9 +12,10 @@ The game has simple rules -
 1. The player needs to collect each egg falling from the sky.
 2. For each egg collected, he will be rewarded 10 points.
 3. The speed of falling of eggs from sky increases after a fixed interval of time.
-4. Player has '3' lives. For each egg that is not collected, a life is deducted. The game is over when the player drops 3 eggs.
+4. Player has '3' lives. For each egg that is not collected, a life is deducted. The game gets over when the player drops 3 eggs.
 
 Modules used in the code - 
+
 -> Itertools
 -> Random
 -> Tkinter
