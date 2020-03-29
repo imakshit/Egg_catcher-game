@@ -1,12 +1,13 @@
 # Egg_catcher game
- simple game in python
  
  
  **DESCRIPTION OF GAME**
+ 
  The _EGG CATCHER_ is a classic game which laid foundation for many game theories at that time. 
  I developed a simple egg catcher game using python and its modules.
 
 _RULES_
+
 The game has simple rules - 
 1. The player needs to collect each egg falling from the sky.
 2. For each egg collected, he will be rewarded 10 points.
@@ -25,7 +26,7 @@ Modules used in the code -
  
  ![Image of game](https://github.com/imakshit/Egg_catcher-game/blob/master/screenshots/ss2.png)
  
- ![Image of game(https://github.com/imakshit/Egg_catcher-game/blob/master/screenshots/ss3.png)
+ ![Image of game](https://github.com/imakshit/Egg_catcher-game/blob/master/screenshots/ss3.png)
  
  ![Image of game](https://github.com/imakshit/Egg_catcher-game/blob/master/screenshots/ss4.png)
  
