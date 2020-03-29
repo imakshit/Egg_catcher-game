@@ -17,7 +17,9 @@ The game has simple rules -
 Modules used in the code - 
 
 -> Itertools
+
 -> Random
+
 -> Tkinter
 
 
